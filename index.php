@@ -1,3 +1,6 @@
+<?php
+// Pokedex script:   http://pastebin.com/bFscDD5H
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
